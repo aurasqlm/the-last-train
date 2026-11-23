@@ -1,0 +1,7 @@
+chunks/
+soundtrack_300s.wav
+.agents/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tmp.mp4
